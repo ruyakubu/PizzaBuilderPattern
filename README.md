@@ -8,3 +8,6 @@ parament combinations to build the object.  It's hard to keep with which constru
 trying to instantiate a class.
 
 Also, when designing a builder object, you specify which fields in the object are required and which are mandatory
+
+#PIZZA Example
+Which building a Pizza, the ingredients for the crust are REQUIRED (e.g. flour, butter, eggs, milk, baking powder).  However, ingredients for the topping are optional based on the user's/customers taste (e.g. pineapple, pepperoni, mushroom etc)
